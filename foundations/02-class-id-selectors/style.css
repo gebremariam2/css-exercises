@@ -1,0 +1,19 @@
+.odd{
+    background-color:rgb(167, 131, 167);
+    font-family: "Verdanda", "Dejavu Sans", sans-serif;
+}
+
+#no2{
+    color:rgb(68, 0, 255);
+    font-size: 36px;
+}
+
+#no4{
+    background-color: rgb(144, 238, 144);
+    font-weight: bold;
+
+}
+ 
+.twofour{
+    font-size:24px;
+}
